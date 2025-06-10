@@ -1,1 +1,6 @@
 Ortega Montes Martin 9B
+
+Párrafo #1 desde user1
+Párrafo #2 desde user1
+Párrafo #1 desde user2
+Párrafo #2 desde user2
